@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-09-23T11:41:18.046027+00:00",
+  "generated_at": "2026-09-27T12:06:18.233786+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -68,6 +68,23 @@
       "confidence": 0.9,
       "headline": "Odgaard: indisponibilità da valutare nell'asta",
       "summary": "Il calciatore frenato dopo il match col Toro da una lesione ai flessori della coscia destra, recuperabile dalla seconda metà di ottobre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "5678": {
+      "player_id": 5678,
+      "name": "Holm",
+      "team": "Bologna",
+      "status": "doubt",
+      "availability": 0.4,
+      "starter": 0.5,
+      "impact_percent": -3.0,
+      "multiplier": 0.97,
+      "confidence": 0.9,
+      "headline": "Holm: indisponibilità da valutare nell'asta",
+      "summary": "Lo svedese KO in Nazionale il 26 settembre vittima di un problema muscolare alla coscia. Da valutare, ma non ci sarà alla ripresa del campionato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -141,23 +158,6 @@
       ],
       "promoted": false
     },
-    "7550": {
-      "player_id": 7550,
-      "name": "Grillitsch",
-      "team": "Frosinone",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Grillitsch: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista non convocato per Genova (12 settembre) a causa di una sindrome retto-adduttoria. Out anche nella sfida successiva contro il Como, da valutare nei prossimi allenamenti le possibilità di convocazione già nella trasferta di Napoli alla ripresa del campionato.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "4375": {
       "player_id": 4375,
       "name": "Terzic",
@@ -175,18 +175,18 @@
       ],
       "promoted": false
     },
-    "7453": {
-      "player_id": 7453,
-      "name": "Havel",
-      "team": "Genoa",
+    "7550": {
+      "player_id": 7550,
+      "name": "Grillitsch",
+      "team": "Frosinone",
       "status": "out",
-      "availability": 0.2,
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
-      "headline": "Havel: indisponibilità da valutare nell'asta",
-      "summary": "L'attaccante ha deciso di operarsi alla caviglia e dovrebbe tornare arruolabile dalla metà di ottobre.",
+      "headline": "Grillitsch: indisponibilità da valutare nell'asta",
+      "summary": "il centrocampista non convocato dalla gara di Genova (12 settembre) a causa di una sindrome retto-adduttoria, ha poi deciso di operarsi. Stop di circa sei settimane, può tornare convocabile da inizio novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -209,18 +209,18 @@
       ],
       "promoted": false
     },
-    "2832": {
-      "player_id": 2832,
-      "name": "Boga",
-      "team": "Juventus",
+    "7453": {
+      "player_id": 7453,
+      "name": "Havel",
+      "team": "Genoa",
       "status": "out",
       "availability": 0.2,
       "starter": 0.5,
       "impact_percent": -10.0,
       "multiplier": 0.9,
       "confidence": 0.9,
-      "headline": "Boga: indisponibilità da valutare nell'asta",
-      "summary": "l'ala offensiva dei bianconeri fermo dopo il match contro il Milan (6 settembre) per una lesione di medio grado del bicipite femorale, ipotizziamo un possibile rientro dalla metà di ottobre.",
+      "headline": "Havel: indisponibilità da valutare nell'asta",
+      "summary": "L'attaccante ha deciso di operarsi alla caviglia e dovrebbe tornare arruolabile dalla metà di ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -260,6 +260,23 @@
       ],
       "promoted": false
     },
+    "6822": {
+      "player_id": 6822,
+      "name": "Ekhator",
+      "team": "Juventus",
+      "status": "out",
+      "availability": 0.2,
+      "starter": 0.5,
+      "impact_percent": -10.0,
+      "multiplier": 0.9,
+      "confidence": 0.9,
+      "headline": "Ekhator: indisponibilità da valutare nell'asta",
+      "summary": "l'attaccante vittima di una lesione di medio grado del muscolo semitendinoso, ipotizziamo un possibile rientro dalla fine di ottobre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "5562": {
       "player_id": 5562,
       "name": "Thuram K.",
@@ -277,9 +294,9 @@
       ],
       "promoted": false
     },
-    "6822": {
-      "player_id": 6822,
-      "name": "Ekhator",
+    "2832": {
+      "player_id": 2832,
+      "name": "Boga",
       "team": "Juventus",
       "status": "out",
       "availability": 0.2,
@@ -287,8 +304,8 @@
       "impact_percent": -10.0,
       "multiplier": 0.9,
       "confidence": 0.9,
-      "headline": "Ekhator: indisponibilità da valutare nell'asta",
-      "summary": "l'attaccante vittima di una lesione di medio grado del muscolo semitendinoso, ipotizziamo un possibile rientro dalla fine di ottobre.",
+      "headline": "Boga: indisponibilità da valutare nell'asta",
+      "summary": "l'ala offensiva dei bianconeri fermo dopo il match contro il Milan (6 settembre) per una lesione di medio grado del bicipite femorale, ipotizziamo un possibile rientro dalla metà di ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -340,23 +357,6 @@
       "confidence": 0.9,
       "headline": "Rovella: indisponibilità da valutare nell'asta",
       "summary": "il regista dei biancocelesti KO il 30 agosto contro il Genoa vittima di una lesione muscolare al polpaccio che lo terrà ai box fino alla metà di ottobre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "7318": {
-      "player_id": 7318,
-      "name": "Gandelman",
-      "team": "Lecce",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Gandelman: indisponibilità da valutare nell'asta",
-      "summary": "Il centrocampista fuori causa da metà settembre per noie fisiche, da valutare convocazione per la prossima giornata di campionato contro il Bologna.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -510,23 +510,6 @@
       "confidence": 0.9,
       "headline": "Marianucci: indisponibilità da valutare nell'asta",
       "summary": "Il difensore KO in amichevole l'8 agosto vittima di una lesione di alto grado del collaterale mediale del ginocchio sinistro. Stop di circa due mesi, rientro dalla seconda metà di ottobre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "6666": {
-      "player_id": 6666,
-      "name": "Bernabè",
-      "team": "Parma",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Bernabè: indisponibilità da valutare nell'asta",
-      "summary": "niente da fare per il centrocampista, ancora condizionato da noie fisiche ed escluso il 20 settembre dai convocati contro il Genoa. Da valutare nella sosta in vista della 6a giornata di campionato, a rischio la sua presenza a San Siro contro l'Inter.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -702,40 +685,6 @@
       ],
       "promoted": false
     },
-    "7481": {
-      "player_id": 7481,
-      "name": "Dagasso",
-      "team": "Venezia",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Dagasso: indisponibilità da valutare nell'asta",
-      "summary": "Il centrocampista non convocato dalla gara dell'11 settembre contro la Fiorentina per un problema fisico. Recuperabile dalla prima metà di ottobre, ma da valutare nei prossimi allenamenti le possibilità di convocazione già nel prossimo turno a Bergamo.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "4387": {
-      "player_id": 4387,
-      "name": "Adorante",
-      "team": "Venezia",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Adorante: indisponibilità da valutare nell'asta",
-      "summary": "l'attaccante a fine luglio ha deciso di operarsi per un problema alla schiena, che lo costringerà a stare ai box per buona parte del girone d'andata del campionato. Tentativo di rientro da metà ottobre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "7253": {
       "player_id": 7253,
       "name": "Bella-Kotchap",
@@ -816,6 +765,40 @@
       "confidence": 0.9,
       "headline": "Busio: indisponibilità da valutare nell'asta",
       "summary": "il regista dei veneti KO l'11 settembre contro la Fiorentina vittima di una distrazione intratendinea del bicipite femorale destro. Rientro dalla seconda metà di ottobre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "7481": {
+      "player_id": 7481,
+      "name": "Dagasso",
+      "team": "Venezia",
+      "status": "out",
+      "availability": 0.2,
+      "starter": 0.5,
+      "impact_percent": -10.0,
+      "multiplier": 0.9,
+      "confidence": 0.9,
+      "headline": "Dagasso: indisponibilità da valutare nell'asta",
+      "summary": "Il centrocampista non convocato dalla gara dell'11 settembre contro la Fiorentina per un problema fisico. Recuperabile dalla prima metà di ottobre, ma da valutare nei prossimi allenamenti le possibilità di convocazione già nel prossimo turno a Bergamo.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "4387": {
+      "player_id": 4387,
+      "name": "Adorante",
+      "team": "Venezia",
+      "status": "out",
+      "availability": 0.2,
+      "starter": 0.5,
+      "impact_percent": -10.0,
+      "multiplier": 0.9,
+      "confidence": 0.9,
+      "headline": "Adorante: indisponibilità da valutare nell'asta",
+      "summary": "l'attaccante a fine luglio ha deciso di operarsi per un problema alla schiena, che lo costringerà a stare ai box per buona parte del girone d'andata del campionato. Tentativo di rientro da metà ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
