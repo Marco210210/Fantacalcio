@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-10-01T13:20:30.127864+00:00",
+  "generated_at": "2026-10-02T12:39:50.289139+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -510,23 +510,6 @@
       "confidence": 0.9,
       "headline": "Buongiorno: indisponibilità da valutare nell'asta",
       "summary": "il difensore operato nella seconda metà di luglio al menisco del ginocchio destro. Sta recuperando lentamente, ipotizziamo possa tornare arruolabile da fine dicembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "7162": {
-      "player_id": 7162,
-      "name": "Giovane",
-      "team": "Napoli",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Giovane: indisponibilità da valutare nell'asta",
-      "summary": "L'attaccante operato il 3 settembre a causa di un'ernia inguinale e recuperabile dall'inizio di ottobre, ma rimane da valutare quotidianamente in vista della ripresa del campionato e capire se ci sono possibilità di convocazione già contro il Frosinone.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
