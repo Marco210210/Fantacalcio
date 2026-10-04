@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-10-03T11:42:48.667103+00:00",
+  "generated_at": "2026-10-04T12:25:12.506539+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -418,13 +418,13 @@
       "name": "Gudmundsson A.",
       "team": "Lazio",
       "status": "out",
-      "availability": 0.2,
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Gudmundsson A.: indisponibilità da valutare nell'asta",
-      "summary": "L'islandese in Nazionale il 26 settembre vittima di un problema alla spalla destra dopo una caduta fortuita in partita. Condizioni da monitorare, si confida di riaverlo a disposizione dalla seconda metà di ottobre.",
+      "summary": "L'islandese in Nazionale il 26 settembre vittima di un problema alla spalla destra dopo una caduta fortuita in partita. Condizioni da monitorare, si confida di riaverlo a disposizione dalla fine metà di ottobre/inizio di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
