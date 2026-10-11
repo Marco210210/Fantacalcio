@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-10-10T12:35:47.293441+00:00",
+  "generated_at": "2026-10-11T12:54:17.152464+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -119,6 +119,23 @@
       "confidence": 0.9,
       "headline": "Odgaard: indisponibilità da valutare nell'asta",
       "summary": "Il calciatore frenato dopo il match col Toro da una lesione ai flessori della coscia destra, recuperabile dalla seconda metà di ottobre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "5675": {
+      "player_id": 5675,
+      "name": "Theate",
+      "team": "Bologna",
+      "status": "monitor",
+      "availability": 0.55,
+      "starter": 0.5,
+      "impact_percent": -2.0,
+      "multiplier": 0.98,
+      "confidence": 0.9,
+      "headline": "Theate: indisponibilità da valutare nell'asta",
+      "summary": "Indisponibile per una contusione avvertita nell'allenamento della vigilia.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -645,7 +662,7 @@
       "multiplier": 0.97,
       "confidence": 0.9,
       "headline": "Ciurria: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista non al meglio per noie fisiche, forfait anche nel prossimo turno contro la Lazio. Da valutare.",
+      "summary": "il centrocampista non al meglio per noie fisiche, forfait anche nel prossimo turno. Da valutare.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -781,7 +798,7 @@
       "multiplier": 0.97,
       "confidence": 0.9,
       "headline": "Zambo Anguissa: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista subentrato a gara in corso il 20 settembre a Firenze, ma ha lamentato una lesione miofasciale di basso grado dell'adduttore lungo e rimane da valutare nei prossimi allenamenti in vista della gara contro il Frosinone alla ripresa del campionato.",
+      "summary": "il centrocampista subentrato a gara in corso il 20 settembre a Firenze, quando ha lamentato una lesione miofasciale di basso grado dell'adduttore lungo e rimane da valutare nei prossimi allenamenti. Out di certo sabato contro il Frosinone alla ripresa del campionato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -849,7 +866,7 @@
       "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Svilar: indisponibilità da valutare nell'asta",
-      "summary": "Il portiere condizionato da una frattura a un dito della mano e fuori dal match contro il Como. Ipotesi di rientro a disposizione dalla metà di novembre.",
+      "summary": "Il portiere condizionato da una frattura a un dito del piede e fuori dal match contro il Como. Ipotesi di rientro a disposizione dalla metà di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -917,7 +934,7 @@
       "multiplier": 0.9,
       "confidence": 0.9,
       "headline": "Volpato: indisponibilità da valutare nell'asta",
-      "summary": "l'esterno offensivo dei neroverdi KO il 6 settembre a Bologna vittima di una lesione di grado moderato al flessore della gamba destra. Recuperabile dalla seconda metà di ottobre, ma da valutare nei prossimi allenamenti le possibilità di convocazione già nel prossimo turno contro il Milan.",
+      "summary": "l'esterno offensivo dei neroverdi KO il 6 settembre a Bologna vittima di una lesione di grado moderato al flessore della gamba destra. Recuperabile dalla seconda metà di ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -1019,7 +1036,7 @@
       "multiplier": 0.97,
       "confidence": 0.9,
       "headline": "Fortini: indisponibilità da valutare nell'asta",
-      "summary": "Il cursore di fascia dei granata rientrato in anticipo dagli impegni con l'U21 azzurra a causa di un affaticamento muscolare all'adduttore che mette a forte rischio la sua presenza contro l'Udinese alla ripresa del campionato. Da valutare con appositi esami medici nelle prossime ore.",
+      "summary": "Il cursore di fascia dei granata rientrato in anticipo dagli impegni con l'U21 azzurra a causa di un affaticamento muscolare all'adduttore che mette a forte rischio la sua presenza contro l'Udinese alla ripresa del campionato. Da valutare nella rifinitura.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
