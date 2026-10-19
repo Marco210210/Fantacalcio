@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-10-18T11:10:14.924747+00:00",
+  "generated_at": "2026-10-19T13:21:50.942205+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -549,6 +549,23 @@
       ],
       "promoted": false
     },
+    "5500": {
+      "player_id": 5500,
+      "name": "Cancellieri",
+      "team": "Lazio",
+      "status": "monitor",
+      "availability": 0.55,
+      "starter": 0.5,
+      "impact_percent": -2.0,
+      "multiplier": 0.98,
+      "confidence": 0.9,
+      "headline": "Cancellieri: indisponibilità da valutare nell'asta",
+      "summary": "L'ala offensiva dei biancocelesti non al meglio per noie fisiche e il suo rientro tra i convocati slitta all'8a giornata di campionato.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "5800": {
       "player_id": 5800,
       "name": "Gudmundsson A.",
@@ -629,23 +646,6 @@
       "confidence": 0.9,
       "headline": "Saelemaekers: indisponibilità da valutare nell'asta",
       "summary": "Il belga fermo da inizio ottobre per un problema alla caviglia destra e operata il 13 ottobre. Stop lungo e lo rivedremo in campo nel 2027 inoltrato (ipotesi da febbraio).",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "5880": {
-      "player_id": 5880,
-      "name": "Ciurria",
-      "team": "Monza",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Ciurria: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista non al meglio per noie fisiche, forfait anche nel prossimo turno. Da valutare.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -872,23 +872,6 @@
       ],
       "promoted": false
     },
-    "779": {
-      "player_id": 779,
-      "name": "Cristante",
-      "team": "Roma",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Cristante: indisponibilità da valutare nell'asta",
-      "summary": "Il mediano giallorosso in ripresa da un'infiammazione al ginocchio e, dopo il forfait di domenica scorsa a Como, non ci sarà neppure sabato contro il Genoa. Ottimismo tuttavia per rivederlo in campo contro il Napoli nell'8a giornata di A.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "5841": {
       "player_id": 5841,
       "name": "Svilar",
@@ -901,6 +884,23 @@
       "confidence": 0.9,
       "headline": "Svilar: indisponibilità da valutare nell'asta",
       "summary": "Il portiere condizionato da una frattura a un dito del piede e fuori dal match contro il Como. Ipotesi di rientro a disposizione dalla metà di novembre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "779": {
+      "player_id": 779,
+      "name": "Cristante",
+      "team": "Roma",
+      "status": "doubt",
+      "availability": 0.4,
+      "starter": 0.5,
+      "impact_percent": -3.0,
+      "multiplier": 0.97,
+      "confidence": 0.9,
+      "headline": "Cristante: indisponibilità da valutare nell'asta",
+      "summary": "Il mediano giallorosso in ripresa da un'infiammazione al ginocchio e, dopo il forfait di domenica scorsa a Como, non ci sarà neppure sabato contro il Genoa. Ottimismo tuttavia per rivederlo in campo contro il Napoli nell'8a giornata di A.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
