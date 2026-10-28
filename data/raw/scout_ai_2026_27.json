@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-10-27T12:16:28.274414+00:00",
+  "generated_at": "2026-10-28T12:59:13.095614+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -44,13 +44,13 @@
       "name": "Bellanova",
       "team": "Atalanta",
       "status": "out",
-      "availability": 0.2,
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Bellanova: indisponibilità da valutare nell'asta",
-      "summary": "il terzino KO il 25 ottobre per un risentimento muscolare all’inguine. Di certo out giovedì nel turno infrasettimanale a Firenze, tempi di recupero da valutare.",
+      "summary": "il terzino KO il 25 ottobre per una distrazione di basso grado dell'adduttore lungo dell’arto sinistro, recuperabile dalla metà di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -73,18 +73,35 @@
       ],
       "promoted": false
     },
+    "2137": {
+      "player_id": 2137,
+      "name": "Scamacca",
+      "team": "Atalanta",
+      "status": "out",
+      "availability": 0.15,
+      "starter": 0.5,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
+      "confidence": 0.9,
+      "headline": "Scamacca: indisponibilità da valutare nell'asta",
+      "summary": "L'attaccante fuori causa per giovedì a Firenze a causa di un risentimento ai muscoli flessori della coscia destra. Verrà rivalutato, si proverà ad averlo a disposizione già da inizio novembre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "1850": {
       "player_id": 1850,
       "name": "Kessiè",
       "team": "Atalanta",
-      "status": "doubt",
-      "availability": 0.4,
+      "status": "out",
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Kessiè: indisponibilità da valutare nell'asta",
-      "summary": "L'ivoriano condizionato da una distrazione di basso grado al polpaccio della gamba destra e out contro Milan e Frosinone. Da valutare in vista di giovedì a Firenze nel turno infrasettimanale, proverà a recuperare in extremis.",
+      "summary": "L'ivoriano condizionato da una distrazione di basso grado al polpaccio della gamba destra, tentativo rientro da inizio novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -135,7 +152,7 @@
       "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Orsolini: indisponibilità da valutare nell'asta",
-      "summary": "il capitano dei felsinei KO l'11 ottobre a Lecce sul finale di match per una lesione di primo grado al bicipite femorale della coscia destra, stop di circa tre settimane. Recuperabile dalla prima metà di novembre.",
+      "summary": "il capitano dei felsinei KO l'11 ottobre a Lecce sul finale di match per una lesione di primo grado al bicipite femorale della coscia destra, stop di circa tre settimane. Recuperabile dall'inizio di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -316,13 +333,13 @@
       "name": "Pongracic",
       "team": "Fiorentina",
       "status": "out",
-      "availability": 0.2,
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Pongracic: indisponibilità da valutare nell'asta",
-      "summary": "il difensore il 15 ottobre contro l'Inter ha rimediato un problema al bicipite femorale della coscia destra, che andrà valutato. Forfait nel frattempo per giovedì contro l'Atalanta al Franchi.",
+      "summary": "il difensore il 15 ottobre contro l'Inter ha rimediato una lesione mio-fasciale a carico del capo lungo del bicipite femorale della coscia destra, rientro dalla seconda metà di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -349,14 +366,14 @@
       "player_id": 6908,
       "name": "Atta",
       "team": "Fiorentina",
-      "status": "doubt",
-      "availability": 0.4,
+      "status": "out",
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
       "headline": "Atta: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista non al meglio per un sovraccarico funzionale dell'addome, assente contro Inter, Genoa e Como. Da valutare nei prossimi allenamenti, ma va verso il forfait anche per giovedì contro l'Atalanta.",
+      "summary": "il centrocampista non al meglio per un sovraccarico funzionale dell'addome, assente contro Atalanta, Inter, Genoa e Como. Da valutare nei prossimi allenamenti, si proverà a recuperarlo da inizio novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -458,7 +475,7 @@
       "multiplier": 0.9,
       "confidence": 0.9,
       "headline": "Stones: indisponibilità da valutare nell'asta",
-      "summary": "il difensore alle prese con un risentimento ai flessori della coscia sinistra, recuperabile dalla fine di ottobre. Da valutare nei prossimi allenamenti le possibilità di convocazione per mercoledì a Venezia.",
+      "summary": "il difensore alle prese con un risentimento ai flessori della coscia sinistra, recuperabile dalla fine di ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -719,6 +736,23 @@
       ],
       "promoted": false
     },
+    "5007": {
+      "player_id": 5007,
+      "name": "Ilic",
+      "team": "Lecce",
+      "status": "monitor",
+      "availability": 0.55,
+      "starter": 0.5,
+      "impact_percent": -2.0,
+      "multiplier": 0.98,
+      "confidence": 0.9,
+      "headline": "Ilic: indisponibilità da valutare nell'asta",
+      "summary": "il regista dei salentini KO l'11 ottobre in casa contro il Bologna vittima di una lesione miotendinea del retto femorale sinistro con lesione parziale del tendine, rientro da aprile.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "6549": {
       "player_id": 6549,
       "name": "Pierotti",
@@ -731,23 +765,6 @@
       "confidence": 0.9,
       "headline": "Pierotti: indisponibilità da valutare nell'asta",
       "summary": "l'ala offensiva dei salentini ferma ai box per la frattura composta del malleolo mediale della caviglia destra rimediata nella seconda metà di ottobre. Si prospetta un lungo stop, ipotizziamo un rientro in campo da gennaio.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "5007": {
-      "player_id": 5007,
-      "name": "Ilic",
-      "team": "Lecce",
-      "status": "monitor",
-      "availability": 0.55,
-      "starter": 0.5,
-      "impact_percent": -2.0,
-      "multiplier": 0.98,
-      "confidence": 0.9,
-      "headline": "Ilic: indisponibilità da valutare nell'asta",
-      "summary": "il regista dei salentini KO l'11 ottobre in casa contro il Bologna vittima di una lesione miotendinea del retto femorale sinistro con lesione parziale del tendine, rientro da fine marzo.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -787,6 +804,23 @@
       ],
       "promoted": false
     },
+    "6989": {
+      "player_id": 6989,
+      "name": "Tiago Gabriel",
+      "team": "Lecce",
+      "status": "doubt",
+      "availability": 0.4,
+      "starter": 0.5,
+      "impact_percent": -3.0,
+      "multiplier": 0.97,
+      "confidence": 0.9,
+      "headline": "Tiago Gabriel: indisponibilità da valutare nell'asta",
+      "summary": "il difensore domenica scorsa contro la Juve ha rimediato una forte contusione al ginocchio che mette a forte rischio la sua presenza in campo giovedì a Frosinone. Da valutare.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "4199": {
       "player_id": 4199,
       "name": "Loftus-Cheek",
@@ -799,23 +833,6 @@
       "confidence": 0.9,
       "headline": "Loftus-Cheek: indisponibilità da valutare nell'asta",
       "summary": "il centrocampista non al meglio per una lesione muscolare al flessore ravvisato sul finire del match di Udine (25 ottobre). Recuperabile dalla seconda metà di novembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "2379": {
-      "player_id": 2379,
-      "name": "Rabiot",
-      "team": "Milan",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Rabiot: indisponibilità da valutare nell'asta",
-      "summary": "Il francese out domenica scorsa a Udine per un affaticamento muscolare al polpaccio rimediato nella rifinitura, salterà anche il turno infrasettimanale contro il Bologna. Da valutare, ma l'obiettivo è averlo a disposizione per il derby di sabato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -842,14 +859,31 @@
       "player_id": 6372,
       "name": "Moreira",
       "team": "Milan",
+      "status": "out",
+      "availability": 0.2,
+      "starter": 0.5,
+      "impact_percent": -10.0,
+      "multiplier": 0.9,
+      "confidence": 0.9,
+      "headline": "Moreira: indisponibilità da valutare nell'asta",
+      "summary": "L'esterno rossonero frenato da un affaticamento muscolare al flessore sinistro e out contro Udinese e Bologna. Da valutare in vista del derby di fine ottobre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "2379": {
+      "player_id": 2379,
+      "name": "Rabiot",
+      "team": "Milan",
       "status": "doubt",
       "availability": 0.4,
       "starter": 0.5,
       "impact_percent": -3.0,
       "multiplier": 0.97,
       "confidence": 0.9,
-      "headline": "Moreira: indisponibilità da valutare nell'asta",
-      "summary": "L'esterno rossonero frenato da un affaticamento muscolare al flessore sinistro e out domenica scorsa contro l'Udinese. Da valutare, convocazione a rischio anche mercoledì contro il Bologna.",
+      "headline": "Rabiot: indisponibilità da valutare nell'asta",
+      "summary": "Il francese out domenica scorsa a Udine per un affaticamento muscolare al polpaccio rimediato nella rifinitura, salterà anche il turno infrasettimanale contro il Bologna. Da valutare, ma l'obiettivo è averlo a disposizione per il derby di sabato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -866,7 +900,7 @@
       "multiplier": 0.97,
       "confidence": 0.9,
       "headline": "Gila: indisponibilità da valutare nell'asta",
-      "summary": "Il difensore assente domenica scorsa contro l'Udinese per un sovraccarico alla caviglia sinistra. Da valutare, a rischio anche per mercoledì a San Siro contro il Bologna.",
+      "summary": "Il difensore assente contro Udinese e Bologna per un sovraccarico alla caviglia sinistra. Da valutare in vista della 10a giornata di campionato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -1076,40 +1110,6 @@
       ],
       "promoted": false
     },
-    "4349": {
-      "player_id": 4349,
-      "name": "Nicolussi Caviglia",
-      "team": "Parma",
-      "status": "out",
-      "availability": 0.15,
-      "starter": 0.5,
-      "impact_percent": -18.0,
-      "multiplier": 0.82,
-      "confidence": 0.9,
-      "headline": "Nicolussi Caviglia: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista alle prese dalla seconda metà di luglio con una lesione di medio grado alla coscia destra, ma a fine agosto ha deciso, assieme allo staff medico ducale, di operarsi. Lungo stop e ritorno in campo da inizio novembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "6207": {
-      "player_id": 6207,
-      "name": "Almqvist",
-      "team": "Parma",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Almqvist: indisponibilità da valutare nell'asta",
-      "summary": "L'ala offensiva dei ducali KO dal 6 ottobre per una lesione muscolare al polpaccio sinistro, recuperabile dalla fine di ottobre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "7342": {
       "player_id": 7342,
       "name": "Elphege",
@@ -1122,40 +1122,6 @@
       "confidence": 0.9,
       "headline": "Elphege: indisponibilità da valutare nell'asta",
       "summary": "l'attaccante operato per una appendicite acuta l'11 ottobre, condizioni ora da valutare per stabilire i tempi di rientro in campo. Di certo assente mercoledì al Tardini contro l'Udinese.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "309": {
-      "player_id": 309,
-      "name": "Dybala",
-      "team": "Roma",
-      "status": "monitor",
-      "availability": 0.55,
-      "starter": 0.5,
-      "impact_percent": -2.0,
-      "multiplier": 0.98,
-      "confidence": 0.9,
-      "headline": "Dybala: indisponibilità da valutare nell'asta",
-      "summary": "l'argentino out anche martedì contro il Cagliari, ma le sue condizioni migliorano e il fastidio al polpaccio va attenuandosi. Appare recuperabile da fine ottobre e convocabile nella 10a giornata di A.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "530": {
-      "player_id": 530,
-      "name": "Pellegrini Lo.",
-      "team": "Roma",
-      "status": "out",
-      "availability": 0.1,
-      "starter": 0.5,
-      "impact_percent": -24.0,
-      "multiplier": 0.76,
-      "confidence": 0.9,
-      "headline": "Pellegrini Lo.: indisponibilità da valutare nell'asta",
-      "summary": "Il centrocampista dei giallorossi il 20 ottobre in Champions League ha rimediato una lesione di alto grado in corrispondenza della giunzione muscolo - tendinea distale del muscolo semitendinoso della coscia destra. Stop lungo, ipotizziamo un rientro dalla fine di dicembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -1178,6 +1144,40 @@
       ],
       "promoted": false
     },
+    "530": {
+      "player_id": 530,
+      "name": "Pellegrini Lo.",
+      "team": "Roma",
+      "status": "out",
+      "availability": 0.1,
+      "starter": 0.5,
+      "impact_percent": -24.0,
+      "multiplier": 0.76,
+      "confidence": 0.9,
+      "headline": "Pellegrini Lo.: indisponibilità da valutare nell'asta",
+      "summary": "Il centrocampista dei giallorossi il 20 ottobre in Champions League ha rimediato una lesione di alto grado in corrispondenza della giunzione muscolo - tendinea distale del muscolo semitendinoso della coscia destra. Stop lungo, ipotizziamo un rientro dalla fine di dicembre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "309": {
+      "player_id": 309,
+      "name": "Dybala",
+      "team": "Roma",
+      "status": "monitor",
+      "availability": 0.55,
+      "starter": 0.5,
+      "impact_percent": -2.0,
+      "multiplier": 0.98,
+      "confidence": 0.9,
+      "headline": "Dybala: indisponibilità da valutare nell'asta",
+      "summary": "l'argentino out anche martedì contro il Cagliari, ma le sue condizioni migliorano e il fastidio al polpaccio va attenuandosi. Appare recuperabile da fine ottobre e convocabile nella 10a giornata di A.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "5841": {
       "player_id": 5841,
       "name": "Svilar",
@@ -1190,23 +1190,6 @@
       "confidence": 0.9,
       "headline": "Svilar: indisponibilità da valutare nell'asta",
       "summary": "Il portiere condizionato da una frattura a un dito del piede e fuori dal match contro il Como. Ipotesi di rientro a disposizione dall'inizio di novembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "6672": {
-      "player_id": 6672,
-      "name": "Idzes",
-      "team": "Sassuolo",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Idzes: indisponibilità da valutare nell'asta",
-      "summary": "Il difensore ai box per una lesione di grado moderato al quadricipite della gamba sinistra, proverà a tornerà arruolabile dalla fine di ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -1263,23 +1246,6 @@
       ],
       "promoted": false
     },
-    "6005": {
-      "player_id": 6005,
-      "name": "Ilkhan",
-      "team": "Torino",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Ilkhan: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista il 12 ottobre costretto al cambio contro l'Udinese per un fastidio muscolare alla gamba. Fuori già contro Monza e Parma, non ci sarà neppure martedì contro il Como.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "7069": {
       "player_id": 7069,
       "name": "Fortini",
@@ -1291,7 +1257,7 @@
       "multiplier": 0.9,
       "confidence": 0.9,
       "headline": "Fortini: indisponibilità da valutare nell'asta",
-      "summary": "Il cursore di fascia dei granata rientrato in anticipo dagli impegni con l'U21 azzurra a inizio ottobre a causa di un affaticamento muscolare all'adduttore. Da valutare nei prossimi allenamenti le possibilità di convocazione per martedì in casa contro il Como.",
+      "summary": "Il cursore di fascia dei granata rientrato in anticipo dagli impegni con l'U21 azzurra a inizio ottobre a causa di un affaticamento muscolare all'adduttore. Da valutare nei prossimi allenamenti le possibilità di convocazione dalla fine di ottobre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
