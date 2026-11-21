@@ -1,7 +1,7 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-11-20T15:30:10.336497+00:00",
+  "generated_at": "2026-11-21T14:41:51.048087+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
@@ -17,23 +17,6 @@
       "confidence": 0.9,
       "headline": "Kossounou: indisponibilità da valutare nell'asta",
       "summary": "Il difensore frenato da una lesione muscolare di medio-alto grado del bicipite femorale della coscia sinistra alla vigilia della sfida di campionato contro la Juventus (del 20 settembre). Lungo stop, rientro dalla fine di novembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "4364": {
-      "player_id": 4364,
-      "name": "Gaetano",
-      "team": "Atalanta",
-      "status": "out",
-      "availability": 0.2,
-      "starter": 0.5,
-      "impact_percent": -10.0,
-      "multiplier": 0.9,
-      "confidence": 0.9,
-      "headline": "Gaetano: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista frenato nella gara di fine ottobre a Firenze per una distrazione di medio grado ai muscoli adduttori della coscia destra, sta provando a recuperare già per la sfida contro l'Inter alla ripresa del campionato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -158,23 +141,6 @@
       ],
       "promoted": false
     },
-    "4210": {
-      "player_id": 4210,
-      "name": "Mina",
-      "team": "Cagliari",
-      "status": "doubt",
-      "availability": 0.4,
-      "starter": 0.5,
-      "impact_percent": -3.0,
-      "multiplier": 0.97,
-      "confidence": 0.9,
-      "headline": "Mina: indisponibilità da valutare nell'asta",
-      "summary": "il colombiano condizionato da una vecchia ferita alla gamba (microlesione muscolare al bicipite femorale), out anche alla ripresa del campionato contro il Como. Da valutare in vista della 13a giornata di A.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "6640": {
       "player_id": 6640,
       "name": "Felici",
@@ -221,6 +187,23 @@
       "confidence": 0.9,
       "headline": "Liteta: indisponibilità da valutare nell'asta",
       "summary": "il centrocampista out a Como sabato per noie fisiche, da valutare in vista della 13a di campionato.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "4210": {
+      "player_id": 4210,
+      "name": "Mina",
+      "team": "Cagliari",
+      "status": "doubt",
+      "availability": 0.4,
+      "starter": 0.5,
+      "impact_percent": -3.0,
+      "multiplier": 0.97,
+      "confidence": 0.9,
+      "headline": "Mina: indisponibilità da valutare nell'asta",
+      "summary": "il colombiano condizionato da una vecchia ferita alla gamba (microlesione muscolare al bicipite femorale), out anche alla ripresa del campionato contro il Como. Da valutare in vista della 13a giornata di A.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -294,23 +277,6 @@
       ],
       "promoted": false
     },
-    "5449": {
-      "player_id": 5449,
-      "name": "Parisi",
-      "team": "Fiorentina",
-      "status": "out",
-      "availability": 0.1,
-      "starter": 0.5,
-      "impact_percent": -24.0,
-      "multiplier": 0.76,
-      "confidence": 0.9,
-      "headline": "Parisi: indisponibilità da valutare nell'asta",
-      "summary": "il cursore di fascia della Viola sta svolgendo l'iter di recupero dall'infortunio al legamento crociato al ginocchio, punta a tornare convocabile da fine dicembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "5603": {
       "player_id": 5603,
       "name": "Pongracic",
@@ -328,35 +294,18 @@
       ],
       "promoted": false
     },
-    "5436": {
-      "player_id": 5436,
-      "name": "Raimondo",
-      "team": "Frosinone",
+    "5449": {
+      "player_id": 5449,
+      "name": "Parisi",
+      "team": "Fiorentina",
       "status": "out",
       "availability": 0.1,
       "starter": 0.5,
       "impact_percent": -24.0,
       "multiplier": 0.76,
       "confidence": 0.9,
-      "headline": "Raimondo: indisponibilità da valutare nell'asta",
-      "summary": "l'attaccante KO l'1 novembre contro il Toro vittima di una lesione multilegamentosa contusivo-distorsiva della caviglia sinistra. Iniziate le cure del caso, proverà a tornare già da metà dicembre in campo.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "7550": {
-      "player_id": 7550,
-      "name": "Grillitsch",
-      "team": "Frosinone",
-      "status": "out",
-      "availability": 0.15,
-      "starter": 0.5,
-      "impact_percent": -18.0,
-      "multiplier": 0.82,
-      "confidence": 0.9,
-      "headline": "Grillitsch: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista non convocato dalla gara di Genova (12 settembre) a causa di una sindrome retto-adduttoria, ha poi deciso di operarsi. Può tornare convocabile dalla fine di novembre.",
+      "headline": "Parisi: indisponibilità da valutare nell'asta",
+      "summary": "il cursore di fascia della Viola sta svolgendo l'iter di recupero dall'infortunio al legamento crociato al ginocchio, punta a tornare convocabile da fine dicembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -379,6 +328,40 @@
       ],
       "promoted": false
     },
+    "7550": {
+      "player_id": 7550,
+      "name": "Grillitsch",
+      "team": "Frosinone",
+      "status": "out",
+      "availability": 0.15,
+      "starter": 0.5,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
+      "confidence": 0.9,
+      "headline": "Grillitsch: indisponibilità da valutare nell'asta",
+      "summary": "il centrocampista non convocato dalla gara di Genova (12 settembre) a causa di una sindrome retto-adduttoria, ha poi deciso di operarsi. Può tornare convocabile dalla fine di novembre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "5436": {
+      "player_id": 5436,
+      "name": "Raimondo",
+      "team": "Frosinone",
+      "status": "out",
+      "availability": 0.1,
+      "starter": 0.5,
+      "impact_percent": -24.0,
+      "multiplier": 0.76,
+      "confidence": 0.9,
+      "headline": "Raimondo: indisponibilità da valutare nell'asta",
+      "summary": "l'attaccante KO l'1 novembre contro il Toro vittima di una lesione multilegamentosa contusivo-distorsiva della caviglia sinistra. Iniziate le cure del caso, proverà a tornare già da metà dicembre in campo.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "6669": {
       "player_id": 6669,
       "name": "Bonny",
@@ -396,18 +379,18 @@
       ],
       "promoted": false
     },
-    "4976": {
-      "player_id": 4976,
-      "name": "Kalulu",
+    "827": {
+      "player_id": 827,
+      "name": "Locatelli",
       "team": "Juventus",
-      "status": "out",
-      "availability": 0.15,
+      "status": "monitor",
+      "availability": 0.55,
       "starter": 0.5,
-      "impact_percent": -18.0,
-      "multiplier": 0.82,
+      "impact_percent": -2.0,
+      "multiplier": 0.98,
       "confidence": 0.9,
-      "headline": "Kalulu: indisponibilità da valutare nell'asta",
-      "summary": "Il terzino bianconero ai box per una lesione ai muscoli ischiocrurali della gamba sinistra, recuperabile dalla fine di novembre.",
+      "headline": "Locatelli: indisponibilità da valutare nell'asta",
+      "summary": "il metronomo del centrocampo bianconero ha rimediato la rottura del menisco esterno del ginocchio. Verrà operato a Lione a stretto giro. Lungo stop e possibilità di rivederlo in campo da febbraio.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -464,18 +447,18 @@
       ],
       "promoted": false
     },
-    "827": {
-      "player_id": 827,
-      "name": "Locatelli",
+    "4976": {
+      "player_id": 4976,
+      "name": "Kalulu",
       "team": "Juventus",
-      "status": "monitor",
-      "availability": 0.55,
+      "status": "out",
+      "availability": 0.15,
       "starter": 0.5,
-      "impact_percent": -2.0,
-      "multiplier": 0.98,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
       "confidence": 0.9,
-      "headline": "Locatelli: indisponibilità da valutare nell'asta",
-      "summary": "il metronomo del centrocampo bianconero ha rimediato la rottura del menisco esterno del ginocchio. Verrà operato a Lione a stretto giro. Lungo stop e possibilità di rivederlo in campo da febbraio.",
+      "headline": "Kalulu: indisponibilità da valutare nell'asta",
+      "summary": "Il terzino bianconero ai box per una lesione ai muscoli ischiocrurali della gamba sinistra, recuperabile dalla fine di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -855,9 +838,9 @@
       ],
       "promoted": false
     },
-    "4137": {
-      "player_id": 4137,
-      "name": "Diego Carlos",
+    "7615": {
+      "player_id": 7615,
+      "name": "Drobnic",
       "team": "Parma",
       "status": "doubt",
       "availability": 0.4,
@@ -865,8 +848,8 @@
       "impact_percent": -3.0,
       "multiplier": 0.97,
       "confidence": 0.9,
-      "headline": "Diego Carlos: indisponibilità da valutare nell'asta",
-      "summary": "Il difensore sabato scorso in allenamento ha lamentato un fastidio muscolare alla gamba e ora a forte rischio la sua convocazione in campionato contro la Roma.",
+      "headline": "Drobnic: indisponibilità da valutare nell'asta",
+      "summary": "Il difensore non ha recuperato da un problema al piede e non è tra i convocati per sabato contro la Roma. Da valutare in vista della 13a giornata di campionato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -906,26 +889,9 @@
       ],
       "promoted": false
     },
-    "7564": {
-      "player_id": 7564,
-      "name": "Leysen F.",
-      "team": "Sassuolo",
-      "status": "monitor",
-      "availability": 0.55,
-      "starter": 0.5,
-      "impact_percent": -2.0,
-      "multiplier": 0.98,
-      "confidence": 0.9,
-      "headline": "Leysen F.: indisponibilità da valutare nell'asta",
-      "summary": "il difensore KO l'11 ottobre contro il Milan vittima di una lesione al crociato anteriore del ginocchio sinistro. Lungo stop, ipotesi rientro in campo da aprile.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "5735": {
-      "player_id": 5735,
-      "name": "Volpato",
+    "6219": {
+      "player_id": 6219,
+      "name": "Boloca",
       "team": "Sassuolo",
       "status": "out",
       "availability": 0.15,
@@ -933,25 +899,8 @@
       "impact_percent": -18.0,
       "multiplier": 0.82,
       "confidence": 0.9,
-      "headline": "Volpato: indisponibilità da valutare nell'asta",
-      "summary": "l'ala offensiva dei neroverdi out dal match del 2 novembre contro la Fiorentina per un problema muscolare alla gamba. Da valutare, forfait anche nel prossimo turno di campionato contro il Genoa.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
-    "6677": {
-      "player_id": 6677,
-      "name": "Adzic",
-      "team": "Sassuolo",
-      "status": "out",
-      "availability": 0.15,
-      "starter": 0.5,
-      "impact_percent": -18.0,
-      "multiplier": 0.82,
-      "confidence": 0.9,
-      "headline": "Adzic: indisponibilità da valutare nell'asta",
-      "summary": "Il centrocampista fermo da metà novembre a causa di un fastidio al ginocchio e non ci sarà nel prossimo turno di campionato. Tempi di recupero da valutare.",
+      "headline": "Boloca: indisponibilità da valutare nell'asta",
+      "summary": "il centrocampista fuori causa per un problema al ginocchio e fuori causa in questo inizio di campionato. Da valutare rientro da fine novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -974,9 +923,9 @@
       ],
       "promoted": false
     },
-    "6219": {
-      "player_id": 6219,
-      "name": "Boloca",
+    "6677": {
+      "player_id": 6677,
+      "name": "Adzic",
       "team": "Sassuolo",
       "status": "out",
       "availability": 0.15,
@@ -984,8 +933,42 @@
       "impact_percent": -18.0,
       "multiplier": 0.82,
       "confidence": 0.9,
-      "headline": "Boloca: indisponibilità da valutare nell'asta",
-      "summary": "il centrocampista fuori causa per un problema al ginocchio e fuori causa in questo inizio di campionato. Da valutare rientro da fine novembre.",
+      "headline": "Adzic: indisponibilità da valutare nell'asta",
+      "summary": "Il centrocampista fermo da metà novembre a causa di un fastidio al ginocchio e non ci sarà nel prossimo turno di campionato. Tempi di recupero da valutare.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "5735": {
+      "player_id": 5735,
+      "name": "Volpato",
+      "team": "Sassuolo",
+      "status": "out",
+      "availability": 0.15,
+      "starter": 0.5,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
+      "confidence": 0.9,
+      "headline": "Volpato: indisponibilità da valutare nell'asta",
+      "summary": "l'ala offensiva dei neroverdi out dal match del 2 novembre contro la Fiorentina per un problema muscolare alla gamba. Da valutare, forfait anche nel prossimo turno di campionato contro il Genoa.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "7564": {
+      "player_id": 7564,
+      "name": "Leysen F.",
+      "team": "Sassuolo",
+      "status": "monitor",
+      "availability": 0.55,
+      "starter": 0.5,
+      "impact_percent": -2.0,
+      "multiplier": 0.98,
+      "confidence": 0.9,
+      "headline": "Leysen F.: indisponibilità da valutare nell'asta",
+      "summary": "il difensore KO l'11 ottobre contro il Milan vittima di una lesione al crociato anteriore del ginocchio sinistro. Lungo stop, ipotesi rientro in campo da aprile.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
