@@ -1,27 +1,10 @@
 {
   "version": 1,
   "season": "2026/27",
-  "generated_at": "2026-11-22T14:38:24.180388+00:00",
+  "generated_at": "2026-11-23T18:14:52.688251+00:00",
   "provider": "Fantacalcio.it · elenco ufficiale",
   "lookback_days": 10,
   "players": {
-    "5578": {
-      "player_id": 5578,
-      "name": "Kossounou",
-      "team": "Atalanta",
-      "status": "out",
-      "availability": 0.15,
-      "starter": 0.5,
-      "impact_percent": -18.0,
-      "multiplier": 0.82,
-      "confidence": 0.9,
-      "headline": "Kossounou: indisponibilità da valutare nell'asta",
-      "summary": "Il difensore frenato da una lesione muscolare di medio-alto grado del bicipite femorale della coscia sinistra alla vigilia della sfida di campionato contro la Juventus (del 20 settembre). Lungo stop, rientro dalla fine di novembre.",
-      "sources": [
-        "https://www.fantacalcio.it/serie-a/indisponibili"
-      ],
-      "promoted": false
-    },
     "6046": {
       "player_id": 6046,
       "name": "Hien",
@@ -51,6 +34,23 @@
       "confidence": 0.9,
       "headline": "Pompei: indisponibilità da valutare nell'asta",
       "summary": "Il portiere fermo da inizio ottobre per la frattura della falange della mano destra, out nel prossimo turno di campionato. Recuperabile da dicembre.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
+    "5578": {
+      "player_id": 5578,
+      "name": "Kossounou",
+      "team": "Atalanta",
+      "status": "out",
+      "availability": 0.15,
+      "starter": 0.5,
+      "impact_percent": -18.0,
+      "multiplier": 0.82,
+      "confidence": 0.9,
+      "headline": "Kossounou: indisponibilità da valutare nell'asta",
+      "summary": "Il difensore frenato da una lesione muscolare di medio-alto grado del bicipite femorale della coscia sinistra alla vigilia della sfida di campionato contro la Juventus (del 20 settembre). Lungo stop, rientro dalla fine di novembre.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
@@ -685,6 +685,23 @@
       ],
       "promoted": false
     },
+    "6145": {
+      "player_id": 6145,
+      "name": "Ngonge",
+      "team": "Monza",
+      "status": "doubt",
+      "availability": 0.4,
+      "starter": 0.5,
+      "impact_percent": -3.0,
+      "multiplier": 0.97,
+      "confidence": 0.9,
+      "headline": "Ngonge: indisponibilità da valutare nell'asta",
+      "summary": "L'attaccante out lunedì contro la Fiorentina per noie fisiche. Da valutare.",
+      "sources": [
+        "https://www.fantacalcio.it/serie-a/indisponibili"
+      ],
+      "promoted": false
+    },
     "6252": {
       "player_id": 6252,
       "name": "Folorunsho",
@@ -696,7 +713,7 @@
       "multiplier": 0.97,
       "confidence": 0.9,
       "headline": "Folorunsho: indisponibilità da valutare nell'asta",
-      "summary": "Il centrocampista alle prese con noie muscolari al polpaccio, da valutare nella sosta in vista della 12a giornata contro la Fiorentina.",
+      "summary": "Il centrocampista alle prese con noie muscolari al polpaccio, da valutare in vista della 13a giornata di campionato.",
       "sources": [
         "https://www.fantacalcio.it/serie-a/indisponibili"
       ],
